@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sechaba-miniApp/static/css/main.a6741374.chunk.css",
+    "main.js": "/sechaba-miniApp/static/js/main.53503f10.chunk.js",
+    "main.js.map": "/sechaba-miniApp/static/js/main.53503f10.chunk.js.map",
+    "runtime~main.js": "/sechaba-miniApp/static/js/runtime~main.072e2cc6.js",
+    "runtime~main.js.map": "/sechaba-miniApp/static/js/runtime~main.072e2cc6.js.map",
+    "static/js/2.4ea1ec15.chunk.js": "/sechaba-miniApp/static/js/2.4ea1ec15.chunk.js",
+    "static/js/2.4ea1ec15.chunk.js.map": "/sechaba-miniApp/static/js/2.4ea1ec15.chunk.js.map",
+    "index.html": "/sechaba-miniApp/index.html",
+    "precache-manifest.9b42dc09f6b9362db417a722435efd34.js": "/sechaba-miniApp/precache-manifest.9b42dc09f6b9362db417a722435efd34.js",
+    "service-worker.js": "/sechaba-miniApp/service-worker.js",
+    "static/css/main.a6741374.chunk.css.map": "/sechaba-miniApp/static/css/main.a6741374.chunk.css.map"
+  }
+}
